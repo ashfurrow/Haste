@@ -1,0 +1,14 @@
+PODS:
+  - Haste (0.1)
+
+DEPENDENCIES:
+  - Haste (from `../`)
+
+EXTERNAL SOURCES:
+  Haste:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Haste: 96459425d55f65157bee89764f1b4c2ed9946cac
+
+COCOAPODS: 0.36.0.beta.2
